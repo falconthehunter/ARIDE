@@ -1,5 +1,7 @@
 # 🚀 ARIDE — Airdrop Research Intelligence & Discovery Engine
 
+# [🤖 Try ARIDE on Telegram](https://t.me/GoAridebot)
+
 ## 🧠 Overview
 
 **ARIDE** is an advanced research and validation assistant designed to empower users with in-depth analysis of airdrop projects. It operates as an intelligent engine, providing the latest project updates, scam detection, and risk analysis—all with simplicity and transparency.
